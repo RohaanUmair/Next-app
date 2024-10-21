@@ -1,0 +1,34 @@
+Stakeholders
+1.Admin
+2.User
+
+
+ADMIN FUNCTIONALITIES
+1.Categories CRUD
+2.SubCategories CRUD
+3.Can see all Events
+4.Can see all Communities
+5.Can see all Users
+6.See analytics of the app
+
+
+USER FUNCTIONALITIES
+1.Signup, Login
+2.Can explore Events according to location
+3.User can join that Events
+4.User and Event Creator can do Posts and comments related to that Event
+
+
+
+TECH STACK
+Frontend/ Backend
+Next JS
+
+Database
+MongoDB
+
+CSS, Tailwind
+Library, Shadcn
+
+API Testing
+Postman
